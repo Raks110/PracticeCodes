@@ -1,6 +1,13 @@
 #include <iostream>
 #include <vector>
 
+/*
+
+  This code is written and tested by Rakshit GL.
+  © Rakshit GL 2019
+
+*/
+
 using namespace std;
 
 class sort_in_n{
