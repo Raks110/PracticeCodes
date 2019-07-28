@@ -1,0 +1,1 @@
+Given two array A and B, sort A in such a way that the relative order among the elements will be the same as those in B. For the elements not present in B, append them at last in sorted order. It is also given that the number of elements in B is smaller than or equal to the number of elements in A and B has all distinct elements.
